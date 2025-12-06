@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+img {
+    border-left: 7px dotted;
+}
+.anon {
+   border: 5px solid black;
+   border-radius: 5px;
+   padding: 5px;
+}
+.m2 {
+    border: 2px solid black;
+}
+nav a {
+    color: black;
+    text-decoration: none; 
+    border-bottom: 3px solid black;
+    margin: 60px;
+}
+h1 {
+    text-align: center;
+}
+main img {
+   border-left: 10px dotted balck;
+}
+footer p {
+    background-color: black;
+    padding: 10px;
+}
+
+
+
+
+v
